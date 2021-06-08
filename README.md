@@ -59,7 +59,7 @@ https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
 ## Public-Key cryptography:
 https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography
 
-## Asymmetric Cryptography: 
+## Asymmetric Cryptography(Video + Text): 
 https://searchsecurity.techtarget.com/definition/asymmetric-cryptography
 
 https://www.youtube.com/watch?v=GSIDS_lvRv4
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=GSIDS_lvRv4
 ## Hashing:
 https://blockgeeks.com/guides/what-is-hashing/
 
-## Secure Hashing Algorithm:
+## Secure Hashing Algorithm (Video):
 https://www.youtube.com/watch?v=DMtFhACPnTY
 
 ## Hash Functions:
@@ -78,4 +78,10 @@ https://hbr.org/2017/03/how-safe-are-blockchains-it-depends
 
 ## Block Header in Blockchain:
 https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/
+
+## Authentication in Decentralised networks
+https://arxiv.org/pdf/1706.01730.pdf
+
+## How Blockchain can transform the economy (Video)
+https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare
 
