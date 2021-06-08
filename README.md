@@ -87,7 +87,7 @@ https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_tran
 
 # Managed By:
 
-![Dibz](https://user-images.githubusercontent.com/72657275/121243793-c4230100-c8bb-11eb-9748-0c877cac92fb.jpg)
+<img src="https://user-images.githubusercontent.com/72657275/121243793-c4230100-c8bb-11eb-9748-0c877cac92fb.jpg"> 
 
 Dibyanshu Mohanty
 
