@@ -1,7 +1,7 @@
 # BlockChain-Resources
 
-## Introduction to Bitcoin: 
-https://bitcoin.org/bitcoin.pdf
+## ![ Introduction to Bitcoin: ](https://bitcoin.org/bitcoin.pdf)
+
 
 ## Bitcoin as Cryptocurrency: 
 https://queue.acm.org/detail.cfm?id=3136559
