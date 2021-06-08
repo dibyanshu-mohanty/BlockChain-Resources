@@ -1,6 +1,6 @@
 # BlockChain-Resources
 
-## ![ Introduction to Bitcoin: ](https://bitcoin.org/bitcoin.pdf)
+## [Introduction to Bitcoin:](https://bitcoin.org/bitcoin.pdf)
 
 
 ## Bitcoin as Cryptocurrency: 
