@@ -85,3 +85,9 @@ https://arxiv.org/pdf/1706.01730.pdf
 ## How Blockchain can transform the economy (Video)
 https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare
 
+# Managed By:
+
+![Dibz](https://user-images.githubusercontent.com/72657275/121243793-c4230100-c8bb-11eb-9748-0c877cac92fb.jpg)
+
+Dibyanshu Mohanty
+
