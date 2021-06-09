@@ -60,6 +60,17 @@
 
 #### [How Blockchain can transform the economy (Video)](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare)
 
+#### [Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols)
+
+#### [Expert Talks (Video)](https://www.youtube.com/watch?v=hYip_Vuv8J0)
+
+#### [Redifing Trust in Blockchain](https://www.wired.com/story/how-the-blockchain-is-redefining-trust/)
+
+#### [Forks](https://www.youtube.com/watch?v=8uF7RVF2osk)
+
+#### [Forks and Scaling](https://www.coindesk.com/split-forks-blockchain-leaders-learn-tough-lessons-bitcoin-scaling)'
+
+
 
 # Managed By:
 
