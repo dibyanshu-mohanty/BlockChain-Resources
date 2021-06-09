@@ -68,7 +68,7 @@
 
 #### [Forks](https://www.youtube.com/watch?v=8uF7RVF2osk)
 
-#### [Forks and Scaling](https://www.coindesk.com/split-forks-blockchain-leaders-learn-tough-lessons-bitcoin-scaling)'
+#### [Forks and Scaling](https://www.coindesk.com/split-forks-blockchain-leaders-learn-tough-lessons-bitcoin-scaling)
 
 
 
