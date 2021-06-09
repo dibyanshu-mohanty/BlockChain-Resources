@@ -12,6 +12,7 @@
 
 #### [How BTC works](https://www.ccn.com/bitcoin-cash-pools-the-majority-of-bitcoin-sv-blocks-are-mined-by-unknown-yes-really/) 
 
+* Bullet list
 #### [Working Of Blockchain-1](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)
 
 #### [Working of Blockchain-2](https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae)
